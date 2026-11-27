@@ -27,4 +27,3 @@ Las principales referencias utilizadas fueron:
 - Python Software Foundation. (s. f.). *Python 3 Documentation*. https://docs.python.org/3/
 - Google. (s. f.). *Google Colaboratory*. https://colab.research.google.com/
 
-La referencia más útil fue la documentación oficial de Python, porque permitió consultar el funcionamiento de las funciones y aclarar dudas durante el desarrollo del laboratorio.
